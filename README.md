@@ -29,13 +29,6 @@ Throughout my career, I have successfully completed over 20 large-scale software
 
 
 💡 Notable Projects
-- Attend Anywhere
-- CallUp
-- Journal of Medical Insights (JOMI)
-- MindShift Psychology Health Center
-- Peplog
-- Zaidoc
-- MedNote
 
 - Attend Anywhere: 
 Developed a secure, GDPR-compliant video consultation platform supporting over 20 million consultations.
