@@ -1,4 +1,4 @@
-*~ I'm a tech savvy person who love to think the solution of people problems and solve them through structuring the architecture of applications*
+~ I'm a tech savvy person who love to think the solution of people problems and solve them through structuring the architecture of applications
 
 👋 	**Bilal Rehman - Senior Full-Stack Developer** 
 Welcome to my GitHub profile! I'm Bilal Rehman, a seasoned and meticulous Senior Full-Stack Developer with over 8 years of comprehensive experience in web and mobile application development. My technical expertise covers a wide range of technologies, with a focus on Node.js, React, Next.js, and AWS. I use these technologies to design, develop, and scale innovative digital solutions. Additionally, I have strong proficiency in TypeScript, React Native, Tailwind, CI/CD, Docker, PostgreSQL, ChatBots, GPT, AI integrations, Blockchain, and Microsoft Technologies.
