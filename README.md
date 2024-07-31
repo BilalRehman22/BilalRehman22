@@ -3,11 +3,11 @@
 👋 Bilal Rehman - Senior Full-Stack Developer 
 Welcome to my GitHub profile! I'm Bilal Rehman, a seasoned and meticulous Senior Full-Stack Developer with over 8 years of comprehensive experience in web and mobile application development. My technical expertise covers a wide range of technologies, with a focus on Node.js, React, Next.js, and AWS. I use these technologies to design, develop, and scale innovative digital solutions. Additionally, I have strong proficiency in TypeScript, React Native, Tailwind, CI/CD, Docker, PostgreSQL, ChatBots, GPT, AI integrations, Blockchain, and Microsoft Technologies.
 
-• Over 8 Years of Extensive Experience as Senior Full Stack Developer🥇
-• 100% Job Success Rate - Ensuring Client Satisfaction 💯
-• 2 Year of Experience in AI Integration and Development Expertise 🤖
-• Clear, friendly and professional communication 📞
-• Full-time availability and Strive to write clean code and take code ownership. 🌟
+- Over 8 Years of Extensive Experience as Senior Full Stack Developer🥇
+- 100% Job Success Rate - Ensuring Client Satisfaction 💯
+- 2 Year of Experience in AI Integration and Development Expertise 🤖
+- Clear, friendly and professional communication 📞
+- Full-time availability and Strive to write clean code and take code ownership. 🌟
 
 🛠 Technical Expertise
 
